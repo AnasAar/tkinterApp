@@ -1,0 +1,10 @@
+#Ce travail est réalisée en utilisant la base de données relationelle MYSQL Donc il faut:
+ -> Acceder au dossier (data) dont il y'a le fichier (dbcreation.py) pour la création du base donnée dans votre machine locale
+ 
+ -> Enlever les (#) dans la page (dbcreation.py)pour permet la création du base donnée , la création des tables nécessaires pour ce projet et pour inserer qlq données dans ces tables .
+
+ -> Enfin, vous pouvez commencer par le fichier 'Accueilpage.py'.
+
+ 
+#Merci de votre temps !!
+ 
